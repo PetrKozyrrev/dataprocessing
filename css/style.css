@@ -1353,7 +1353,7 @@ form{
         margin-bottom: 40px;
     }
 }
-@media (max-width:501px) {
+@media (max-width:601px) {
     .section_third_card {
         max-width: 55%;
     }
